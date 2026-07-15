@@ -1,0 +1,17 @@
+{
+    "name": "geoffreyduplessi/runalyzex",
+    "description": "Personal running performance analyzer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Geoffrey Duplessi",
+            "email": "grezor.gamer@gmail.com"
+        }
+    ],
+    "require": {}
+}
